@@ -1,0 +1,10 @@
+/* *Змінні у CSS* */
+:root {
+  --color-obsidian: #080e17;
+  --color-bark-blue: #111b27;
+  --color-navy-blue: #1a2335;
+  --color-sky-blue: #3bb2f6;
+  --color-ice-blue: #a0b5d9;
+  --color-platinum: #e6e7eb;
+  --gradient: linear-gradient(to bottom, #a0b5d9, #e6e7eb, #3bb2f6);
+}

@@ -1,0 +1,16 @@
+body {
+  background-color: var(--color-obsidian);
+}
+.wrapper {
+  margin: 0 auto;
+  width: min(100% - 1rem, 1600px);
+}
+a {
+  color: var(--color-platinum);
+}
+.img-logo {
+  width: 100px;
+}
+header a {
+  font-weight: 600;
+}
